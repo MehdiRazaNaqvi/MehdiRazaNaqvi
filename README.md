@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mehdi Raza Naqvi</h1>
 <h3 align="center">A MERN full-stack web developer</h3>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://abhirajchatterjee.netlify.app/images/hello-transparent-2.gif"> -->
+ <img align="right" alt="Coding" width="150" src="https://abhirajchatterjee.netlify.app/images/hello-transparent-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
