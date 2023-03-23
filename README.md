@@ -13,6 +13,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
+- 📫 Just another guy out there
+- 💬 Talks about **Javascript | Typescript | React | Redux | Next | Node | Firebase**
+- 📫 Reach me **mehdiraza1232016@gmail.com**
+
 
 <h2 align="left">Techs</h2>
 
@@ -45,9 +49,6 @@
 
 
 
-- 💬 Talks about **Javascript | Typescript | React | Redux | Next | Node | Firebase**
-
-- 📫 Reach me **mehdiraza1232016@gmail.com**
 
 
 
