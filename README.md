@@ -3,14 +3,6 @@
 
 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehdirazanaqvi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-<!-- ### Hi there 👋 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirazanaqvi&show_icons=true&theme=transparent)
-
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirazanaqvi&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -27,13 +19,24 @@
 - 📫 Reach me **mehdiraza1232016@gmail.com**
 
 
-<h3 align="left">Find me:</h3>
+
+
+<h2 align="left">Github Stats</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=mehdirazanaqvi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdirazanaqvi&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirazanaqvi&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<h2 align="left">Find me:</h2>
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/syed-mehdi-3355601b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/syedmehdi.razanaqvi.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i.syed_mehdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
-
-
 
