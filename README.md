@@ -9,13 +9,13 @@
 <h1 align="center">Hi 👋, I'm Syed Mehdi Raza Naqvi</h1>
 <h3 align="center">A MERN full-stack web developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://abhirajchatterjee.netlify.app/images/hello-transparent-2.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://abhirajchatterjee.netlify.app/images/hello-transparent-2.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-- 📫 Just another guy out there
+- 🧍 Just another guy out there
 - 💬 Talks about **Javascript | Typescript | React | Redux | Next | Node | Firebase**
-- 📫 Reach me **mehdiraza1232016@gmail.com**
+<!-- - 📫 Ring me <a href="https://wa.me/+923378058628">  </a>  -->
 
 
 <h2 align="left">Techs</h2>
@@ -70,14 +70,17 @@
 <p align="left">
 
 
-<a href="https://www.fiverr.com/mehdiraza2000?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/color/48/null/fiverr.png" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01072941cd9e1b8638" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/null/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" height="30" width="40" /></a>
+
+<a href="https://www.upwork.com/freelancers/~01072941cd9e1b8638" target="blank"><img align="center" src="https://img.icons8.com/ios/50/40C057/upwork.png" height="30" width="40" /></a>
+<a href="https://wa.me/+923378058628" target="blank"><img align="center" src="https://img.icons8.com/ios/50/40C057/whatsapp--v1.png" height="30" width="40" /></a>
+<a href="https://www.fiverr.com/mehdiraza2000?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/40C057/fiverr.png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/syed-mehdi-3355601b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/syedmehdi.razanaqvi.16/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/i.syed_mehdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 
 
 
+  
 
 
 </p>
