@@ -57,10 +57,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdirazanaqvi&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 align="left">Github Trophies</h2>
+<!-- <h2 align="left">Github Trophies</h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=mehdirazanaqvi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
+ -->
 
 
 <h2 align="left">Find me:</h2>
