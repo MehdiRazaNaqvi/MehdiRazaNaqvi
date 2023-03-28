@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Syed Mehdi Raza Naqvi</h1>
 <h3 align="center">A MERN stack web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
 - 🧍 Just another guy out there
 - 💬 Talks about **Javascript | Typescript | React | Redux | Next | Node | Firebase**
