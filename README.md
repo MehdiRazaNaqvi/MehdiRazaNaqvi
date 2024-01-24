@@ -12,8 +12,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
 - 🧍 Just another guy out there
-- 💬 Talks about **Javascript | Typescript | React | Redux | Next | Node | Firebase | Strapi | GraphQL | Chadcn**
-<!-- - 📫 Ring me <a href="https://wa.me/+923378058628">  </a>  -->
+- 💬 Talks about **Javascript | Typescript | Redux | Nextjs | GraphQL | Chadcn | Nodejs | Strapi | Firebase**
 
 
 <h2 align="left">Techs</h2>
