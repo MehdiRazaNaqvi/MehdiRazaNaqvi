@@ -11,7 +11,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
-- 🧍 Just another guy out there
+- 🧍 Just another guy out there.
 - 💬 Talks about **Javascript | Typescript | Redux Toolkit | Context API | Nextjs | GraphQL | Chadcn | Nodejs | Strapi | Firebase**
 
 
