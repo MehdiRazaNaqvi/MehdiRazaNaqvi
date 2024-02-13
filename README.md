@@ -9,7 +9,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mehdi R. </h1>
 <h3 align="center">Top Full-Stack Web Developer</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdirazanaqvi&label=Profile%20views&color=0e75b6&style=flat"/> </p> -->
 
 - 🧍 Just another guy out there.
 - 💬 Talks about **Javascript | Typescript | Redux | Nextjs | GraphQL | Chadcn | Nodejs | Strapi | Firebase**
