@@ -11,7 +11,7 @@
 
 
 - 🧍 Just another guy out there.
-- 💬 Talks about **Javascript | Typescript | Redux | Nextjs | Reactjs | GraphQL | Shadcn | Nodejs | Strapi | Firebase | User Experience | Debugging**
+- 💬 Talks about **Javascript | Typescript | Redux | Nextjs | Reactjs | Ai Chatbots | Shadcn | Nodejs | Strapi | Firebase | User Experience | Debugging**
 
 
 <h2 align="left">Techs</h2>
